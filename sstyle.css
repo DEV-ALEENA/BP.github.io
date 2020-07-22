@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+.clear{
+    clear: both;
+}
+a{
+    color: black;
+    text-decoration:none ;
+}
+h5{
+    font-size: 2.8rem;
+    color: black ;
+}
+h4{
+    font-size: 9rem;
+    padding: 5rem 0rem;
+    color: white;
+    text-decoration: none;
+    text-underline-offset: none;
+    font-style: italic;
+}
+li{
+    color: crimson;
+    text-decoration: none;
+    font-size: 2.4rem;
+}
+h3{
+    font-size: 5rem;
+    color:  white;
+}
+button{
+    font-size: 1.8rem;
+}
+h1 {
+    color: rgb(204, 35, 125);
+    background-color: black;
+    text-shadow: fuchsia;
+    text-align: center;
+    background-color: black;
+    padding: 10rem;
+    font-size: 10rem;
+}
+
+nav {
+    background: rgb(204, 35, 125);
+    color: black;
+    padding: 3rem;
+}
+nav h5{
+    float: left;
+}
+nav ul{
+    float: right;
+     list-style: none;
+}
+nav li{
+    float: left;
